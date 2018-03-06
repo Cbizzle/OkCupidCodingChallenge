@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OkCupidChallenge</string>
+    <string name="interpunct">·</string>
+
+    <string name="specialBlendTabName">Special Blend</string>
+    <string name="matchPercentTabName">Match %</string>
+</resources>

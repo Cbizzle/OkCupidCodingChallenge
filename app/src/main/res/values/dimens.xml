@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageWidth">200dp</dimen>
+
+    <dimen name="textMargin">8dp</dimen>
+
+    <dimen name="textMargin_large">12dp</dimen>
+
+    <dimen name="matchCardViewElevation">0dp</dimen>
+</resources>
